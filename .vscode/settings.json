@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.cargo.target": "thumbv6m-none-eabi",
+    "rust-analyzer.checkOnSave.allTargets": false,
+    "rust-analyzer.cargo.features": [ "single-gpio", "1", ],
+    "rust-analyzer.check.command": "clippy",
+}
