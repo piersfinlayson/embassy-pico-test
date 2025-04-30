@@ -1,6 +1,6 @@
 # embassy-pico-test
 
-This repostitory contains code to test embassy-rs functions on the Raspberry Pi Pico.
+This repository contains code to test embassy-rs functions on the Raspberry Pi Pico.
 
 ## Using
 
